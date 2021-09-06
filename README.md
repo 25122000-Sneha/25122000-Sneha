@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 👩‍🎓 I am a *Computer Science Engineering* student
 🌱 I am currently learning web development and I am absolutely loving it 🌸
 🐬 I have been learning to code since 2020 and I can code in C and Python
